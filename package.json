@@ -1,0 +1,35 @@
+{
+  "name": "d-leaflet",
+  "version": "0.0.1",
+  "description": "derby component for leaflets maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onerussell/d-leaflet.git"
+  },
+  "keywords": [
+    "derby",
+    "derbyjs",
+    "components",
+    "leaflet",
+    "leafletjs",
+    "map",
+    "navigation"
+  ],
+  "author": {
+    "name": "Alexeev Ruslan",
+    "url": "http://vk.com/russell_o_o",
+    "email": "wb.russel@outlook.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onerussell/d-leaflet/issues"
+  },
+  "homepage": "https://github.com/onerussell/d-leaflet",
+  "dependencies": {
+    "leaflet": "^0.7.3"
+  }
+}
