@@ -1,6 +1,6 @@
 {
   "name": "d-leaflet",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "derby component for leaflets maps",
   "main": "index.js",
   "scripts": {
